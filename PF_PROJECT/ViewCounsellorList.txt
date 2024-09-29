@@ -1,0 +1,4 @@
+1,Ali Asad,Ali1@gmail.com,0345-6523234,Reading  Writing  Listening,Urdu Arabic English,BS psychology  MS psychology,School Counselling  Education Counselling
+2,Asma Zulfiqar,asma123@yahoo.com,0345-6528894,Social Skills  Patience  Listening,Urdu English Punjabi,BS psychology  MS psychology,Career Counselling  Education Counselling
+3,Maryam Zulfiqar,Maryam@yahoo.com,0333-8990789,Communication  Patience  Listening,Urdu English,BS in social Science  MS psychology,Career Counselling  Education guidance
+4,Rahat Talha,talhavirk1@gmail.com,0344-9023516,Active listening  Patience,English Turkish Urdu,BS Sociology  MS sociology,Mental Counselling  School Counselling

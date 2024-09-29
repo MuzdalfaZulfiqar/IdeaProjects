@@ -1,0 +1,12 @@
+1
+ali
+10
+2
+asma
+90
+3
+mryam
+90
+4
+rahat
+89

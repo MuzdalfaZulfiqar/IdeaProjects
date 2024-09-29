@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"advancedJava","c":"AJ_Practice_Set_02","l":"AJ_Practice_Set_02()","u":"%3Cinit%3E()"},{"p":"advancedJava","c":"AJ_Practice_Set_02","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
